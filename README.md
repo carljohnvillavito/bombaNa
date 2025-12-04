@@ -28,12 +28,12 @@ pip install -r requirements.txt
 pip install requests aiohttp
 
 # Method 3: Auto-install on first run
-python bomba_na.py
+python run.py
 ```
 
 ## Usage
 ```bash
-python bomba_na.py
+python run.py
 ```
 
 ### Menu Options
